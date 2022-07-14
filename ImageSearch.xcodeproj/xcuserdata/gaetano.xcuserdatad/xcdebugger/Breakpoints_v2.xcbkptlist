@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD62F619-885D-42FD-92DE-5780B0F2AC32"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AECBC6F7-AF2E-490B-ABF1-E5FACC421F2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Candyspace/Common/Network/ImageDownloader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "image(at:fallbackImage:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AECBC6F7-AF2E-490B-ABF1-E5FACC421F2F - 85510192028a142b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Candyspace.ImageDownloader.image(at: Foundation.URL, fallbackImage: __C.UIImage, completion: (__C.UIImage) -&gt; ()) -&gt; Candyspace.Cancellable"
+                  moduleName = "Candyspace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaetano/TESTS/Candyspace/Candyspace/Common/Network/ImageDownloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "769">
+               </Location>
+               <Location
+                  uuid = "AECBC6F7-AF2E-490B-ABF1-E5FACC421F2F - c1065be71802671a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Candyspace.ImageDownloader.image(at: Foundation.URL, fallbackImage: __C.UIImage, completion: (__C.UIImage) -&gt; ()) -&gt; Candyspace.Cancellable"
+                  moduleName = "Candyspace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaetano/TESTS/Candyspace/Candyspace/Common/Network/ImageDownloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "AECBC6F7-AF2E-490B-ABF1-E5FACC421F2F - ac5777469a7f8db2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Candyspace.ImageDownloader.image(at: Foundation.URL, fallbackImage: __C.UIImage, completion: (__C.UIImage) -&gt; ()) -&gt; Candyspace.Cancellable"
+                  moduleName = "Candyspace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaetano/TESTS/Candyspace/Candyspace/Common/Network/ImageDownloader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "374">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4432FB95-20D8-4F5F-9286-18A8C46B785B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Candyspace/Common/Service/PixabayService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "searchImages(by:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
